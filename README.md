@@ -24,7 +24,7 @@ Project is executed in macos with a Silicon Chip (M1) PC and in Chrome version 1
   4. If your operating system is windows:
         Open the project in your favorite IDE and edit the path to chromedriver. Change it from "./chromedriver" to "./chromedriver.exe" in the "AmazonSearchSteps" class.
   6. Open a terminal in the cloned project directory and build the project using the command "mvn clean install"
-  7. Execute the test using "mvn clean test"
+  7. Execute the automated test using "mvn clean test"
   8. You can edit the feature file to change the webpage, search term, and checking string.
 
 <img width="759" alt="image" src="https://github.com/Kalpana19950117/MavenCucumber/assets/63944272/10ca1359-11a1-46cf-8560-0130844acd0d">
