@@ -19,7 +19,7 @@ Project is executed in macos with a Silicon Chip (M1) PC and in Chrome version 1
 
 # Steps to execute the project
   1. Clone the git repository on your PC.
-  2. Check your chrome version. The executable chromedriver in this repo is only for macos with Silicon Chip (M1) and Chrome version is 113.
+  2. Check your chrome version. The executable chromedriver in this repo is only for macos with Silicon Chip (M1) and for Chrome version 113.
   3. If your Chrome version or/and operating system differs from above specs, you need to download the Chrome web driver from https://chromedriver.chromium.org/downloads and replace the "chromedriver" file in the cloned project.
   4. If your operating system is windows:
         Open the project in your favorite IDE and edit the path to chromedriver. Change it from "./chromedriver" to "./chromedriver.exe" in the "AmazonSearchSteps" class.
