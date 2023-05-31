@@ -15,7 +15,7 @@ Project is executed in macos with a Silicon Chip (M1) PC and in Chrome version 1
   1. Java Development Kit (JDK)
   2. Maven
   3. Chrome webdriver needs to be downloaded according to your operating system.
-  4. You need to enable assertions in your IDE.
+  4. You need to enable assertions.
 
 # Steps to execute the project
   1. Clone the git repository on your PC.
